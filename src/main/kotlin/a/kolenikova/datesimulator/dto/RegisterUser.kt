@@ -1,6 +1,6 @@
 package a.kolenikova.datesimulator.dto
 
-class RegisterBody (
+class RegisterUser (
     val login: String,
     val password: String
 )

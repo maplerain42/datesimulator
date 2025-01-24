@@ -7,12 +7,6 @@ data class User(
     var password: String,
     var gender: Gender? = null,
     var age: Int? = null,
-    var lastName: String? = null,
-    var firstName: String? = null
-) {
-
-    enum class Gender {
-        Male, Female;
-    }
-
-}
+    var lastName: String?=null,
+    var firstName: String?=null
+)
