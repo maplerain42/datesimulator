@@ -1,11 +1,11 @@
-package a.kolenikova.datesimulator.service
+package a.kolesnikova.datesimulator.service
 
-import a.kolenikova.datesimulator.dto.RegisterUser
-import a.kolenikova.datesimulator.dto.User
-import a.kolenikova.datesimulator.dto.User2
-import a.kolenikova.datesimulator.dto.UserAdd
-import a.kolenikova.datesimulator.repository.ReactData
-import a.kolenikova.datesimulator.repository.UserData
+import a.kolesnikova.datesimulator.dto.RegisterUser
+import a.kolesnikova.datesimulator.dto.User
+import a.kolesnikova.datesimulator.dto.User2
+import a.kolesnikova.datesimulator.dto.UserAdd
+import a.kolesnikova.datesimulator.repository.ReactData
+import a.kolesnikova.datesimulator.repository.UserData
 import org.springframework.data.domain.Pageable
 import org.springframework.stereotype.Service
 

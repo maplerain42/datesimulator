@@ -1,4 +1,4 @@
-package a.kolenikova.datesimulator
+package a.kolesnikova.datesimulator
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class DatesimulatorApplication
 
 fun main(args: Array<String>) {
-	runApplication<DatesimulatorApplication>(*args)
+	runApplication<a.kolesnikova.datesimulator.DatesimulatorApplication>(*args)
 }

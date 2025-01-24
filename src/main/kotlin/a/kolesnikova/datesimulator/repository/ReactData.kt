@@ -1,7 +1,7 @@
-package a.kolenikova.datesimulator.repository
+package a.kolesnikova.datesimulator.repository
 
-import a.kolenikova.datesimulator.dto.React
-import a.kolenikova.datesimulator.dto.User2
+import a.kolesnikova.datesimulator.dto.React
+import a.kolesnikova.datesimulator.dto.User2
 import org.springframework.stereotype.Repository
 
 @Repository

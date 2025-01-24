@@ -1,4 +1,4 @@
-package a.kolenikova.datesimulator
+package a.kolesnikova.datesimulator
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

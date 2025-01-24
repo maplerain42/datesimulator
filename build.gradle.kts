@@ -6,7 +6,7 @@ plugins {
 	kotlin("plugin.jpa") version "1.9.25"
 }
 
-group = "a.kolenikova"
+group = "a.kolesnikova"
 version = "0.0.1-SNAPSHOT"
 
 java {

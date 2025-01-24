@@ -1,4 +1,4 @@
-package a.kolenikova.datesimulator.dto
+package a.kolesnikova.datesimulator.dto
 
 data class User(
     val id: Int,
