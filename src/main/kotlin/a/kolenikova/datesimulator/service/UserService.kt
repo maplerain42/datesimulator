@@ -14,6 +14,7 @@ class UserService (
     val userData: UserData,
     val reactData: ReactData
 ){
+
     private fun GenerateToken(): String{
         val s = ('a'..'z')+ ('A'..'Z')
         var token: String = ""
